@@ -1,0 +1,13 @@
+{
+  "name": "bower-typewriter",
+  "version": "0.2",
+  "authors": [
+    "Fardjad Davari"
+  ],
+  "description": "A library for simulating typewriter effect in the browser.",
+  "main": "typewriter-bundle-sa.min.js",
+  "keywords": [
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fardjad/realistic-typewriter.js"
+}
